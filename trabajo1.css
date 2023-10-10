@@ -1,5 +1,10 @@
 
-
+.imagen_banner {
+    height: 90px;
+    margin-top: 20px;
+    border: 0px  ; 
+    
+}
 li{
     color: rgb(6, 8, 8);
     margin: 20px;
@@ -50,3 +55,19 @@ header h1{
 
 
 }
+
+.container {
+    align-items: cent;
+    
+    justify-content: space-around;
+    align-items: center;
+}
+.item {
+    background-color: rgb(91, 0, 0) ;
+    height: 100px;
+    
+}
+
+
+
+   
